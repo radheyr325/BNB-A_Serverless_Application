@@ -1,0 +1,9 @@
+{
+  "name": "sample-cloud-storage",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/storage": "^1.6.0",
+    "@google-cloud/language": "^5.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}

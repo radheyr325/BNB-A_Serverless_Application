@@ -1,0 +1,33 @@
+/**
+ *   @author : Ali Shan (B00881685)
+ */
+
+ .card-overflow-ellipsis{
+
+    -webkit-line-clamp: 4;
+    
+    -webkit-box-orient: vertical;
+    
+    overflow: hidden;
+    
+    text-overflow: ellipsis;
+    
+    display: -webkit-box;
+    
+    }
+    
+    .menu-item-image{
+    
+    height: 110px;
+    
+    width: 100%;
+    
+    object-fit: fill;
+    
+    }
+    
+    .text-align-center{
+    
+    text-align: center;
+    
+    }
